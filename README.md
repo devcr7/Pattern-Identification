@@ -39,8 +39,3 @@ This repository is open sourced for learning purposes only - the original creato
 
 - Refresh your browser and you should be good to go!
 
-
-## More with Liveblocks
-[![Adding live cursors to Next.js](https://www.ctnicholas.dev/images/custom-thumbnails/live-cursors-with-liveblocks.png)](https://www.ctnicholas.dev/articles/live-cursors-with-liveblocks)
-[![Build a live piano](https://livepiano.ctnicholas.dev/screenshot.png)](https://livepiano.ctnicholas.dev)
-[![Build a live basket](https://livebasket.ctnicholas.dev/screenshot.png)](https://livebasket.ctnicholas.dev)
