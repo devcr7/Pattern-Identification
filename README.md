@@ -7,13 +7,11 @@ This repo shows how to build a multiplayer Wordle clone with [Liveblocks](https:
 ## [Try it out](https://wordlewars.ctnicholas.dev)
 
 
-It's forked from [VVowrdle](https://github.com/yyx990803/vue-wordle) created by Evan You (@yyx990803), with some multiplayer and extra styling added.
 You can only see your opponent's letters after you've got the word of the day. Scores are saved at the end of the war,
 and a new Wordle becomes available at UTC±00:00 every day. It features a dark mode and a colourblind mode.
 
 ![Wordle wars screenshot](https://wordlewars.ctnicholas.dev/screenshot-visible.png)
 
-This repository is open sourced for learning purposes only - the original creator(s) of Wordle own all applicable rights to the game itself.
 
 ## Getting started
 
