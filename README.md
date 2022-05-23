@@ -1,4 +1,4 @@
-# [Wordle Wars](https://wordlewars.ctnicholas.dev)
+# [Pattern Identification](https://wordlewars.ctnicholas.dev)
 
 This repo shows how to build a multiplayer Wordle clone with [Liveblocks](https://liveblocks.io), [Vue](https://vuejs.org/), and [Vite](https://vitejs.dev/).
 
